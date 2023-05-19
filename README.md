@@ -1,7 +1,9 @@
 # CloudObjectStorageExplorer
 Exploring Cloud Object Storage
 
-Description: CloudObjectStorageExplorer is a comprehensive and user-friendly toolkit designed to streamline your journey into the realm of Cloud Object Storage. Developed as part of the "Introduction to Cloud" course by IBM, this repository offers a collection of practical examples, code snippets, and tutorials to empower you with the knowledge and skills required to efficiently work with Cloud Object Storage.
+CloudObjectStorageExplorer is a Public URL in my public object storage bucket in my Cloud Object Stroage instance on IBM Cloud. Developed as part of the "Introduction to Cloud Computing" course by IBM.
+
+In the "Introduction to Cloud Computing" Course offered by IBM, I learned about many factors of Cloud Computing.
 
 Key Features: 
  - Create and manage buckets effortlessly
